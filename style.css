@@ -1,0 +1,282 @@
+.ttp{
+    background-color: rgba(240, 235, 235, 0.589);
+    font-size:12px;
+    color: rgb(0, 0, 0);
+}
+.pyt{
+    padding: 10px 0;
+}
+.ffu{
+    color: rgb(87, 190, 148);
+    margin-right: 3px;
+    
+}
+.fff{
+    color: rgb(87, 190, 148);
+    margin-left: 6px;
+    cursor: pointer;
+}
+
+.uup{
+    margin-left: 14px;
+}
+.uu{
+    background-color:white;
+    color: black;
+}
+.llu{
+    color: rgb(107, 104, 104);
+    font-size: 11px;
+}
+
+.menu-bar1{
+    color: rgb(107, 104, 104);
+    
+}
+.menu-bar1 ul{
+    display: inline-flex;
+    list-style: none;
+    color: #000;
+    width: 811px;
+    margin: -17px;
+    padding: 15px;
+}
+.menu-bar1 ul li{
+    margin-right: 25px;
+    cursor: pointer;
+    transition: .4s;
+}
+.menu-bar1 ul li:hover{
+    color: rgb(87, 190, 148);
+
+}
+.menu-bar{
+    background: white;
+    text-align: center;
+    font-size:12px;
+
+}
+
+.mm1{
+    margin-left:466px;
+    color: rgb(107, 104, 104);
+}
+.mu1{
+    margin-left:466px;
+   
+}
+.mm{
+    margin-left: -61px;
+    color: rgb(107, 104, 104);
+    cursor: pointer;
+}
+.menu-bar ul{
+    display: inline-flex;
+    list-style: none;
+    color: #000;
+    width: 811px;
+    margin: -4px;
+    padding: 15px;
+}
+.menu-bar ul li{
+    margin-left: 25px;
+
+}.menu-bar2{
+    color: #000;
+    text-align: left;
+    font-size:12px;
+
+}
+
+.menu-bar2 ul{
+    display: inline-flex;
+    list-style: none;
+    color: #000;
+    width: 811px;
+    margin: -4px;
+    padding: 15px;
+}
+.menu-bar2 ul li{
+    margin-left: 25px;
+
+}
+}.menu-bar21{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size:12px;
+
+}
+
+.menu-bar21 ul{
+    display: inline-flex;
+    list-style: none;
+    color: #fff;
+    width: 956px;
+    margin: 14px;
+    
+    
+    font-size: 13px;
+    margin-left:10px;
+    cursor: pointer;
+}
+.menu-bar21 ul li{
+    margin-left: 25px;
+
+}
+.menu-bar2 ul li:nth-child(4){
+             color: white;
+
+}
+.menu-bar2 ul li:nth-child(1){
+    color: rgb(105, 98, 98);
+    cursor: pointer;
+}
+.menu-bar2 ul li:nth-child(2){
+    color: rgb(105, 98, 98);
+    cursor: pointer;
+}
+
+.menu-bar2 ul li:nth-child(3){
+             color: rgb(105, 98, 98);
+             cursor: pointer;
+            
+
+}
+
+.anisul{
+    
+    background: linear-gradient(to right, rgb(19, 167, 147),rgb(95, 150, 212) );
+    padding-bottom: 25px;
+}
+.menu-bar ul li:hover{
+         color:  rgb(87, 190, 148);
+         cursor: pointer;
+
+}
+.ut{
+    cursor: pointer;
+    
+    background: linear-gradient(to right, rgb(19, 167, 147),rgb(95, 150, 212) );
+}
+.mt10{
+    margin-top:10px;
+}
+.bbk{
+    font-weight: bold;
+}
+.f12{
+    font-size: 12px;
+
+}
+.f10{
+    font-size: 10px;
+
+}
+.f25{
+    font-size:25px;
+}
+
+
+
+
+.menu-bar ul li::after{
+    content: '';
+    width:0%;
+    height: .4px;
+    background:  rgb(87, 190, 148);
+    display: block;
+    margin: auto;
+    transition: .5s;
+}
+.menu-bar ul li:hover:after{
+    width: 100%;
+}
+.bb img{
+    height:440px;
+    width: auto;
+    margin-left: 65px;
+    margin-top: 20px;
+    cursor: pointer;
+    margin-bottom: -13px;
+}
+.bb .ntn{
+    margin-top: 20px;
+
+}
+.llu img{
+    height: 65px;
+    width: auto;
+    margin-left: 25px;
+margin-top: 8px;
+cursor: pointer;
+margin-bottom: -13px;
+}
+.llu1 img{
+    height:25px;
+    width: auto;
+}
+
+.b2{
+    font-size: 18px;
+}
+.smann span{
+    color: rgb(12, 126, 146);
+    font-weight: bolder;
+}
+.nnu{
+    font-weight: bold;
+}
+.nn{
+    color: rgb(163, 157, 157);
+}
+.nn:hover{
+    color: #000;
+}
+.tomi{
+    position: absolute;
+    height: 50px;
+    width: 220px;
+    border: 1px solid rgb(119, 202, 155);
+    color: rgb(143, 136, 136);
+    background: rgba(235, 238, 243, 0.918);
+    border-radius: 5px;
+    padding: 6px;
+}
+.llut{
+    position: relative;
+}
+.tomi1{
+    position: absolute;
+    height: 50px;
+    width: 220px;
+    border: 1px solid rgb(119, 202, 155);
+    color: rgb(143, 136, 136);
+    background: rgb(235, 238, 243, 0.918);
+    border-radius: 5px;
+    padding: 6px;
+    margin-top: 20px;
+}
+.llut1{
+    position: relative;
+}
+.sp{
+    margin-top: 104px;
+}
+.f13{
+    font-size: 13px;
+}
+.adb img{
+    height: auto;
+    width: 840px;
+    
+    margin: 9px 66px;
+}
+
+. b1b{
+    margin-left: 10px;
+}
+
+/* drop down content style */
+ .a6i{
+     position: fixed;
+ }
