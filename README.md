@@ -1,2 +1,2 @@
-    My love LFWF Academy ❤️🥰❤️<br>
+    My love LFWF Academy ❤️🥰❤️
 <img src="./img/lfwfacademy-default-logo.png" alt="lfwf">
