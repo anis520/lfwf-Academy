@@ -290,3 +290,57 @@ margin-bottom: -13px;
  .a6i{
      position: fixed;
  }
+/* last one  */
+.uma{
+
+    background-color: aqua;
+    position: relative;
+    height: 300px;
+width:300px;
+transition: .3s;
+      margin-top: 50px;
+      margin-bottom: 50px;
+          border-radius: 50px;
+      margin-left: 50px;
+
+}
+.uma:hover img{
+         transform: translateX(40px);
+         border-radius: 40px;
+         box-shadow: 10px 12px rgb(20, 106, 204);
+       
+}
+.inner{
+    position: absolute;
+    top: 160px;
+    left: 45px;
+    color:greenyellow;
+    padding: 7px;
+    border-radius:5px 25px 5px 5px;
+    display: none;
+    background:rgb(20, 106, 204);
+}
+.uma:hover{
+    transform: translate(-20px ); cursor: pointer;
+  
+}
+.uma img{
+    margin-top:37px;  border-radius: 20px;
+    margin-left: 37px;
+    transition:.3s;
+   
+    border: 2px solid rebeccapurple;
+}
+.uma:hover .inner{
+    display: block;   
+    margin-left:40px; 
+
+}
+.bhu{
+    
+     display: inline-flex;
+     margin-left: 40px;
+}
+.bhu :last-child{
+    margin-left: 80px;
+}
